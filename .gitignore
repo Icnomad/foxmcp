@@ -47,6 +47,9 @@ tests/unit/test_imports.py
 *.swo
 *~
 
+# Node dependencies
+node_modules/
+
 # Extension build artifacts
 extension.zip
 server.zip
